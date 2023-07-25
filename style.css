@@ -25,4 +25,5 @@
     border: 2px solid rgb(20, 219, 20);
     background-color: transparent;
     border-radius: 20px 0px 0px 20px;
+    box-shadow: none;
 }
