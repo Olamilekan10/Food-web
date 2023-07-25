@@ -27,9 +27,8 @@
     border-radius: 20px 0px 0px 20px;
     border-right: none;
 }
-.search:focus {
+.btn1 {
+    height: 45px;
     outline: none;
-    box-shadow: none;
-    border: 2px solid rgb(20, 219, 20);
-    border-right: none;
+    border: none;
 }
