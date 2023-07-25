@@ -40,5 +40,8 @@
     background-color: rgb(19, 160, 19);
 }
 .bi-bag-check {
-    kflefe
+    font-size: 30px;
+    color: #000;
+    cursor: pointer;
+    padding-top: 5px;
 }
