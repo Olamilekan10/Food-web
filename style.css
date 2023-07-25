@@ -44,4 +44,8 @@
     color: #000;
     cursor: pointer;
     padding-top: 5px;
+    transition: all 0.4s;
+}
+.bi-bag-check:hover {
+    color: rgb(20, 219, 20);
 }
