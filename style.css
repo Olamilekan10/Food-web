@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+p{
+    font-family: 'Montserrat', sans-serif;
+}
 .nav-item a {
     text-decoration: none;
     color: #000;
@@ -67,6 +70,7 @@
 }
 .main h1 {
     font-size: 5rem;
+    font-family: 'Righteous', cursive;
 }
 .main p:nth-child(1) {
     font-size: 18px;
@@ -75,6 +79,7 @@
 .main p:nth-child(2) {
     font-size: 18px;
     color: #808080;
+    font-weight: 500;
 }
 .mbtn1 {
     height: 50px;
