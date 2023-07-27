@@ -113,6 +113,7 @@ p{
     height: 6px;
     width: 30%;
     background: rgb(20, 219, 20);
+    /* display: inline-block; */
 }
 /* ======== */
 /* about */
