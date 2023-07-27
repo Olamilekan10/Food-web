@@ -138,4 +138,13 @@ p{
     font-size: 18px;
     color: #808080;
 }
-/* ========= */
+/* =========welcome========= */
+.welcome {
+    background: rgb(20, 219, 20);
+}
+.line2 {
+    height: 6px;
+    width: 30%;
+    background: #fff;
+    display: inline-block;
+}
