@@ -111,7 +111,8 @@ p{
 }
 .line {
     height: 6px;
-    width: ;
+    width: 30%;
+    background: rgb(20, 219, 20);
 }
 /* ======== */
 /* about */
