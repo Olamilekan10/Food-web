@@ -161,3 +161,8 @@ p{
     font-size: 45px;
     color: rgb(20, 219, 20);
 }
+.welcome h2 {
+
+    font-weight: lighter;
+    padding: 10px 0px;
+}
