@@ -166,3 +166,18 @@ p{
     font-weight: lighter;
     padding: 10px 0px;
 }
+/* ========product======== */
+.product h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.product p:nth-child(1) {
+    font-size: 18px;
+    font-weight: 500;
+    color: #a3a1a1;
+    /* padding-top: 100px; */
+}
+.product p:nth-child(2) {
+    font-size: 18px;
+    color: #808080;
+}
