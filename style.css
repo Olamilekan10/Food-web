@@ -152,3 +152,12 @@ p{
     font-size: 3rem;
     font-weight: bold;
 }
+.welcome .card {
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+}
+.welcome i {
+    font-size: 45px;
+    color: rgb(20, 219, 20);
+}
