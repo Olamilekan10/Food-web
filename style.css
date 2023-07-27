@@ -80,11 +80,10 @@ p{
 .main p:nth-child(2) {
     font-size: 18px;
     color: #808080;
-    font-weight: 500;
 }
 .mbtn1 {
     height: 50px;
-    width: 20%;
+    width: 25%;
     outline: none;
     border: none;
     color: #fff;
@@ -109,4 +108,16 @@ p{
     background-color: rgb(20, 219, 20);
     border: none;
     color: #fff;
+}
+.line {
+    height: 6px;
+    width: ;
+}
+/* ======== */
+/* about */
+.about {
+    background: url(./img/abt2.avif)no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
 }
