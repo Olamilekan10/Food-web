@@ -184,3 +184,6 @@ p{
     text-align: end;
     color: orange;
 }
+.product .card-body{
+    border: 1px dashed rgb(175, 172, 172);
+}
