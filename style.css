@@ -206,4 +206,15 @@ p{
     outline: none;
     color: #fff;
     background: rgb(20, 219, 20);
+    border-radius: 50px;
+    margin: 0 auto;
+    display: block;
+    transition: all 0.4s;
+}
+.btnc:hover {
+    outline: none;
+    border: 1px solid rgb(20, 219, 20);
+    color: rgb(20, 219, 20);
+    background: transparent;
+    border-radius: 50px;
 }
