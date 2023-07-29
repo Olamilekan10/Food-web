@@ -184,6 +184,11 @@ p{
     text-align: end;
     color: orange;
 }
+.product .card{
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+}
 .product .card-body{
-    border: 1px dashed rgb(175, 172, 172);
+    border: 1px dashed rgb(190, 185, 185);
 }
