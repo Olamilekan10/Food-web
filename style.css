@@ -192,3 +192,18 @@ p{
 .product .card-body{
     border: 1px dashed rgb(190, 185, 185);
 }
+.head1 {
+    font-weight: 400;
+    margin: 0;
+}
+.per1 {
+    color: rgb(168, 162, 162);
+}
+.btnc {
+    height: 50px;
+    width: 50%;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: rgb(20, 219, 20);
+}
