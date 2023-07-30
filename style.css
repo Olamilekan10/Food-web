@@ -174,7 +174,7 @@ p{
     font-size: 18px;
     font-weight: 500;
     color: #a3a1a1;
-    /* padding-top: 100px; */
+    padding-top: 100px;
 }
 .product p:nth-child(2) {
     font-size: 18px;
@@ -247,6 +247,7 @@ p{
 .store p:nth-child(1) {
     font-size: 18px;
     font-weight: 500;
+    color: #a3a1a1;
 }
 .store p:nth-child(2) {
     font-size: 18px;
