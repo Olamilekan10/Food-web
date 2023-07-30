@@ -236,3 +236,6 @@ p{
     font-weight: lighter;
     transition: all 0.4s;
 }
+.dbtn:hover {
+    background-color: wheat;
+}
