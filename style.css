@@ -253,3 +253,19 @@ p{
     font-size: 18px;
     color: #808080;
 }
+.store i {
+    font-size: 45px;
+}
+.store .card {
+    border-radius: 0;
+    border: none;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+.store .card:hover {
+    background-color: rgb(20, 219, 20);
+    color: #fff;
+}
+.store .card:hover .per1{
+    color: #fff;
+}
