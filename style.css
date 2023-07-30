@@ -274,3 +274,10 @@ p{
     font-size: 3rem;
     font-weight: bold;
 }
+.seller i{
+    color: orange;
+}
+.seller .card {
+    border-radius: none;
+    border: none;
+}
