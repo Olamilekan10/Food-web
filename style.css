@@ -221,4 +221,18 @@ p{
 /* ======discount====== */
 .discount {
     background: rgb(20, 219, 20);
+    color: #fff;
+}
+.dbtn {
+    height: 50px;
+    width: 75%;
+    outline: none;
+    border: none;
+    color: #000;
+    background: #fff;
+    border-radius: 50px;
+    margin: 0 auto;
+    display: block;
+    font-weight: lighter;
+    transition: all 0.4s;
 }
