@@ -239,3 +239,17 @@ p{
 .dbtn:hover {
     background-color: rgb(228, 228, 228);
 }
+.store h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.store p:nth-child(1) {
+    font-size: 18px;
+    font-weight: 500;
+    color: #a3a1a1;
+    /* padding-top: 100px; */
+}
+.store p:nth-child(2) {
+    font-size: 18px;
+    color: #808080;
+}
