@@ -218,3 +218,7 @@ p{
     background: transparent;
     border-radius: 50px;
 }
+/* ======discount====== */
+.discount {
+    background: rgb(20, 219, 20);
+}
