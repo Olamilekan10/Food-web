@@ -282,3 +282,16 @@ p{
     border: none;
 }
 /* ========contact */
+.contact {
+    background: url();
+    background-size: cover;
+    width: 100%;
+}
+.contact h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #fff;
+}
+.contact p{
+    color: #fff;
+}
