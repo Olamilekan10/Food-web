@@ -283,7 +283,7 @@ p{
 }
 /* ========contact */
 .contact {
-    background: url();
+    background: url(./img/lady.png)no-repeat rgb(20, 219, 20);
     background-size: cover;
     width: 100%;
 }
