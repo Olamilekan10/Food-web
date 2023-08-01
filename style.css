@@ -342,5 +342,20 @@ p{
     background: grey;
 }
 .s1{
-    
+    height: 40px;
+    width: 40px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    padding-top: 9px;
+    margin-top: 10px;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.s1:hover{
+    background-color: rgb(20, 219, 20);
+    border: none;
 }
