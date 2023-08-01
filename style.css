@@ -305,3 +305,21 @@ p{
     padding: 15px;
     font-size: 18px;
 }
+.contact input {
+    height: 40px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    margin-top: 10px;
+    padding: 10px;
+}
+.contact textarea {
+    height: 100px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    margin-top: 10px;
+    padding: 10px;
+}
