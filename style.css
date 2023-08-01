@@ -323,3 +323,17 @@ p{
     margin-top: 10px;
     padding: 10px;
 }
+.cbtn {
+    height: 50px;
+    width: 65%;
+    outline: none;
+    border: none;
+    background: #fff;
+    color: #000;
+    border-radius: 50px;
+    font-weight: lighter;
+    transition: all 0.4s;
+}
+.cbtn:hover {
+    background: rgb(185, 185, 185);
+}
