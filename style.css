@@ -359,3 +359,6 @@ p{
     background-color: rgb(20, 219, 20);
     border: none;
 }
+.footer p{
+    color: rgb(13, 172, 13);
+}
